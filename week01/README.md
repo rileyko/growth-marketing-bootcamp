@@ -28,9 +28,8 @@
 
 | No. | Notebook | What It Covers |
 |---:|---|---|
-| 01 | [Orientation](./01_orientation.ipynb) | 학습 목표와 기록 방향 설정 |
-| 02 | [Marketing Analysis](./02_marketing_analysis.ipynb) | 마케팅 문제 구조화와 분석 관점 정리 |
-| 03 | [AI & Data Careers](./03_ai_data_careers.ipynb) | AI·데이터 직무와 마케팅의 연결 이해 |
+| 01 | [Marketing Analysis](./01_marketing_analysis.ipynb) | 마케팅 문제 구조화와 분석 관점 정리 |
+| 02 | [AI & Data Careers](./02_ai_data_careers.ipynb) | AI·데이터 직무와 마케팅의 연결 이해 |
 
 ---
 

@@ -103,9 +103,8 @@ growth-marketing-bootcamp
 │
 ├── week01/
 │   ├── README.md
-│   ├── 01_orientation.ipynb
-│   ├── 02_marketing_analysis.ipynb
-│   └── 03_ai_data_careers.ipynb
+│   ├── 01_marketing_analysis.ipynb
+│   └── 02_ai_data_careers.ipynb
 │
 ├── week02/
 │   └── ...
