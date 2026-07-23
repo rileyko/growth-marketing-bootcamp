@@ -24,20 +24,17 @@
 
 ---
 
-### 📓 Portfolio Notes
+### 📓 TIL
 
-| No. | Notebook | What It Covers |
-|---:|---|---|
-| 01 | [Data Preprocessing](./01_data_preprocessing.ipynb) | 데이터 정제·변환과 품질 점검 |
-| 02 | [Machine Learning](./02_machine_learning.ipynb) | 데이터 패턴 탐색과 모델 결과 해석 |
+| No. | 날짜 | 주제 | 상태 |
+|---:|---|---|---|
+| 01 | 2026-09-14 | [데이터 수집과 전처리](./2026-09-14_daily_til.ipynb) | 작성 예정 |
+| 02 | 2026-09-15 | [데이터 수집과 전처리](./2026-09-15_daily_til.ipynb) | 작성 예정 |
+| 03 | 2026-09-16 | [데이터 수집과 전처리](./2026-09-16_daily_til.ipynb) | 작성 예정 |
+| 04 | 2026-09-17 | [머신러닝](./2026-09-17_daily_til.ipynb) | 작성 예정 |
+| 05 | 2026-09-18 | [머신러닝](./2026-09-18_daily_til.ipynb) | 작성 예정 |
 
-
----
-
-### ✍️ 기록 방식
-
-코드 실습이 있는 날은 같은 날짜·주제의 Notion 글과 코드를 하나의 날짜별 노트북에 보관합니다.
-[작성·저장 방법 보기](../LEARNING_WORKFLOW.md)
+> 노트북과 같은 이름의 HTML도 미리 준비되어 있습니다. 해당 날짜의 파일을 열어 작성하면 됩니다.
 
 ### 🔍 Recruiter Takeaway
 

@@ -10,8 +10,8 @@ __pycache__/
 /curriculum.md
 /data/
 
-# WordPress 게시용 로컬 초안
-/week*/week*.html
+# 매일 작성·게시하는 로컬 TIL HTML
+/week*/*.html
 
 # Notion 가져오기·내보내기 결과물
 /output/

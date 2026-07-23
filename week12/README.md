@@ -24,20 +24,15 @@
 
 ---
 
-### 📓 Portfolio Notes
+### 📓 TIL
 
-| No. | Notebook | What It Covers |
-|---:|---|---|
-| 01 | [Career Insights](./01_career_special_lectures.ipynb) | 직무 이해와 포트폴리오 방향 정리 |
-| 02 | [Marketing Strategy Project](./02_marketing_strategy_project.ipynb) | 분석 인사이트를 활용한 전략 구조화 |
+| No. | 날짜 | 주제 | 상태 |
+|---:|---|---|---|
+| 01 | 2026-10-06 | [이력서·포트폴리오 · AI·데이터 직무 이해](./2026-10-06_daily_til.ipynb) | 작성 예정 |
+| 02 | 2026-10-07 | [이력서·포트폴리오](./2026-10-07_daily_til.ipynb) | 작성 예정 |
+| 03 | 2026-10-08 | [마케팅 성과 개선 프로젝트](./2026-10-08_daily_til.ipynb) | 작성 예정 |
 
-
----
-
-### ✍️ 기록 방식
-
-코드 실습이 있는 날은 같은 날짜·주제의 Notion 글과 코드를 하나의 날짜별 노트북에 보관합니다.
-[작성·저장 방법 보기](../LEARNING_WORKFLOW.md)
+> 노트북과 같은 이름의 HTML도 미리 준비되어 있습니다. 해당 날짜의 파일을 열어 작성하면 됩니다.
 
 ### 🔍 Recruiter Takeaway
 
