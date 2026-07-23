@@ -24,20 +24,17 @@
 
 ---
 
-### 📓 Portfolio Notes
+### 📓 TIL
 
-| No. | Notebook | What It Covers |
-|---:|---|---|
-| 01 | [Statistics & EDA](./01_statistics_eda.ipynb) | 기초 통계와 탐색적 데이터 분석 |
-| 02 | [Data Preprocessing](./02_data_preprocessing.ipynb) | 데이터 정제·변환과 품질 점검 |
+| No. | 날짜 | 주제 | 상태 |
+|---:|---|---|---|
+| 01 | 2026-09-07 | [통계 분석](./2026-09-07_daily_til.ipynb) | 작성 예정 |
+| 02 | 2026-09-08 | [통계 분석](./2026-09-08_daily_til.ipynb) | 작성 예정 |
+| 03 | 2026-09-09 | [통계 분석](./2026-09-09_daily_til.ipynb) | 작성 예정 |
+| 04 | 2026-09-10 | [통계 분석 · 데이터 수집과 전처리](./2026-09-10_daily_til.ipynb) | 작성 예정 |
+| 05 | 2026-09-11 | [데이터 수집과 전처리](./2026-09-11_daily_til.ipynb) | 작성 예정 |
 
-
----
-
-### ✍️ 기록 방식
-
-코드 실습이 있는 날은 같은 날짜·주제의 Notion 글과 코드를 하나의 날짜별 노트북에 보관합니다.
-[작성·저장 방법 보기](../LEARNING_WORKFLOW.md)
+> 노트북과 같은 이름의 HTML도 미리 준비되어 있습니다. 해당 날짜의 파일을 열어 작성하면 됩니다.
 
 ### 🔍 Recruiter Takeaway
 

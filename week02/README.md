@@ -24,21 +24,16 @@
 
 ---
 
-### 📓 Portfolio Notes
+### 📓 TIL
 
-| No. | Notebook | What It Covers |
-|---:|---|---|
-| 01 | [Marketing Analysis](./01_marketing_analysis.ipynb) | 마케팅 문제 구조화와 분석 관점 정리 |
-| 02 | [Dashboard](./02_dashboard.ipynb) | 지표 구성과 데이터 스토리텔링 실습 |
-| 03 | [Career Portfolio](./03_resume_portfolio.ipynb) | 경험과 역량을 포트폴리오 관점으로 정리 |
+| No. | 날짜 | 주제 | 상태 |
+|---:|---|---|---|
+| 01 | 2026-07-27 | [마케팅 분석](./2026-07-27_daily_til.ipynb) | 작성 예정 |
+| 02 | 2026-07-28 | [마케팅 분석](./2026-07-28_daily_til.ipynb) | 작성 예정 |
+| 03 | 2026-07-29 | [대시보드 제작 · 이력서·포트폴리오](./2026-07-29_daily_til.ipynb) | 작성 예정 |
+| 04 | 2026-07-31 | [대시보드 제작](./2026-07-31_daily_til.ipynb) | 작성 예정 |
 
-
----
-
-### ✍️ 기록 방식
-
-코드 실습이 있는 날은 같은 날짜·주제의 Notion 글과 코드를 하나의 날짜별 노트북에 보관합니다.
-[작성·저장 방법 보기](../LEARNING_WORKFLOW.md)
+> 노트북과 같은 이름의 HTML도 미리 준비되어 있습니다. 해당 날짜의 파일을 열어 작성하면 됩니다.
 
 ### 🔍 Recruiter Takeaway
 

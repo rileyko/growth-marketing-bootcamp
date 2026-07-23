@@ -24,20 +24,16 @@
 
 ---
 
-### 📓 Portfolio Notes
+### 📓 TIL
 
-| No. | Notebook | What It Covers |
-|---:|---|---|
-| 01 | [Marketing Analysis](./01_marketing_analysis.ipynb) | 마케팅 문제 구조화와 분석 관점 정리 |
-| 02 | [AI & Data Careers](./02_ai_data_careers.ipynb) | AI·데이터 직무와 마케팅의 연결 이해 |
+| No. | 날짜 | 주제 | 상태 |
+|---:|---|---|---|
+| 01 | 2026-07-21 | [부트캠프 오리엔테이션](./2026-07-21_daily_til.ipynb) | 작성 예정 |
+| 02 | 2026-07-22 | [마케팅 분석](./2026-07-22_daily_til.ipynb) | 작성 완료 |
+| 03 | 2026-07-23 | [마케팅 분석 · AI·데이터 직무 이해](./2026-07-23_daily_til.ipynb) | 작성 예정 |
+| 04 | 2026-07-24 | [마케팅 분석](./2026-07-24_daily_til.ipynb) | 작성 예정 |
 
-
----
-
-### ✍️ 기록 방식
-
-코드 실습이 있는 날은 같은 날짜·주제의 Notion 글과 코드를 하나의 날짜별 노트북에 보관합니다.
-[작성·저장 방법 보기](../LEARNING_WORKFLOW.md)
+> 노트북과 같은 이름의 HTML도 미리 준비되어 있습니다. 해당 날짜의 파일을 열어 작성하면 됩니다.
 
 ### 🔍 Recruiter Takeaway
 

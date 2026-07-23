@@ -24,21 +24,17 @@
 
 ---
 
-### 📓 Portfolio Notes
+### 📓 TIL
 
-| No. | Notebook | What It Covers |
-|---:|---|---|
-| 01 | [Dashboard](./01_dashboard.ipynb) | 지표 구성과 데이터 스토리텔링 실습 |
-| 02 | [Data Analysis](./02_data_analysis.ipynb) | Python·Pandas 기반 데이터 탐색과 분석 |
-| 03 | [Growth Marketing Project](./03_growth_marketing_project.ipynb) | 마케팅 문제 정의와 분석 프로젝트 기록 |
+| No. | 날짜 | 주제 | 상태 |
+|---:|---|---|---|
+| 01 | 2026-08-03 | [대시보드 제작](./2026-08-03_daily_til.ipynb) | 작성 예정 |
+| 02 | 2026-08-04 | [대시보드 제작](./2026-08-04_daily_til.ipynb) | 작성 예정 |
+| 03 | 2026-08-05 | [대시보드 제작](./2026-08-05_daily_til.ipynb) | 작성 예정 |
+| 04 | 2026-08-06 | [데이터 분석 · 클릭률 개선 그로스 마케팅 프로젝트](./2026-08-06_daily_til.ipynb) | 작성 예정 |
+| 05 | 2026-08-07 | [데이터 분석 · 클릭률 개선 그로스 마케팅 프로젝트](./2026-08-07_daily_til.ipynb) | 작성 예정 |
 
-
----
-
-### ✍️ 기록 방식
-
-코드 실습이 있는 날은 같은 날짜·주제의 Notion 글과 코드를 하나의 날짜별 노트북에 보관합니다.
-[작성·저장 방법 보기](../LEARNING_WORKFLOW.md)
+> 노트북과 같은 이름의 HTML도 미리 준비되어 있습니다. 해당 날짜의 파일을 열어 작성하면 됩니다.
 
 ### 🔍 Recruiter Takeaway
 
