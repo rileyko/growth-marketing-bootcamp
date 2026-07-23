@@ -30,7 +30,13 @@
 |---:|---|---|
 | 01 | [Machine Learning](./01_machine_learning.ipynb) | 데이터 패턴 탐색과 모델 결과 해석 |
 
+
 ---
+
+### ✍️ 기록 방식
+
+코드 실습이 있는 날은 같은 날짜·주제의 Notion 글과 코드를 하나의 날짜별 노트북에 보관합니다.
+[작성·저장 방법 보기](../LEARNING_WORKFLOW.md)
 
 ### 🔍 Recruiter Takeaway
 

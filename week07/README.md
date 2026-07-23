@@ -32,7 +32,13 @@
 | 02 | [Growth Marketing Project](./02_growth_marketing_project.ipynb) | 마케팅 문제 정의와 분석 프로젝트 기록 |
 | 03 | [Statistics & EDA](./03_statistics_eda.ipynb) | 기초 통계와 탐색적 데이터 분석 |
 
+
 ---
+
+### ✍️ 기록 방식
+
+코드 실습이 있는 날은 같은 날짜·주제의 Notion 글과 코드를 하나의 날짜별 노트북에 보관합니다.
+[작성·저장 방법 보기](../LEARNING_WORKFLOW.md)
 
 ### 🔍 Recruiter Takeaway
 

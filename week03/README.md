@@ -32,7 +32,13 @@
 | 02 | [Data Analysis](./02_data_analysis.ipynb) | Python·Pandas 기반 데이터 탐색과 분석 |
 | 03 | [Growth Marketing Project](./03_growth_marketing_project.ipynb) | 마케팅 문제 정의와 분석 프로젝트 기록 |
 
+
 ---
+
+### ✍️ 기록 방식
+
+코드 실습이 있는 날은 같은 날짜·주제의 Notion 글과 코드를 하나의 날짜별 노트북에 보관합니다.
+[작성·저장 방법 보기](../LEARNING_WORKFLOW.md)
 
 ### 🔍 Recruiter Takeaway
 

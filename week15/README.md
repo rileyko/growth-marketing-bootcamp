@@ -30,7 +30,13 @@
 |---:|---|---|
 | 01 | [Marketing Strategy Project](./01_marketing_strategy_project.ipynb) | 분석 인사이트를 활용한 전략 구조화 |
 
+
 ---
+
+### ✍️ 기록 방식
+
+코드 실습이 있는 날은 같은 날짜·주제의 Notion 글과 코드를 하나의 날짜별 노트북에 보관합니다.
+[작성·저장 방법 보기](../LEARNING_WORKFLOW.md)
 
 ### 🔍 Recruiter Takeaway
 

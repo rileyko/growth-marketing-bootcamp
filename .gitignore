@@ -12,3 +12,6 @@ __pycache__/
 
 # WordPress 게시용 로컬 초안
 /week*/week*.html
+
+# Notion 가져오기·내보내기 결과물
+/output/

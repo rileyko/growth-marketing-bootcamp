@@ -84,6 +84,22 @@
 
 ---
 
+### ✍️ Learning Record Workflow
+
+학습 기록은 같은 내용을 여러 곳에 반복하지 않도록 역할을 나눕니다.
+
+| 공간 | 작성하는 내용 | 역할 |
+|---|---|---|
+| Notion | 배운 내용 · 생각 · 질문 · 회고 · 다음 액션 | 수업 중 빠르게 기록하는 원본 노트 |
+| VS Code | 데이터 확인 · 분석 · 시각화 · 실습 코드 | 실행 가능한 코드와 결과 보관 |
+| Jupyter Notebook | 같은 날짜·주제의 Notion 글 + VS Code 코드·결과 | GitHub·HTML 공개 기록 |
+
+코드 실습이 있는 날은 같은 날짜·주제의 Notion 기록을 하나의 Markdown 셀로 합쳐 `YYYY-MM-DD_topic.ipynb`에 저장합니다. 글만 있는 수업은 Notion에만 기록합니다.
+
+자세한 작성 순서와 명령어는 [학습 기록 운영 가이드](./LEARNING_WORKFLOW.md)에서 확인할 수 있습니다.
+
+---
+
 ### 🔍 What This Portfolio Demonstrates
 
 - 마케팅 문제를 데이터 분석 과제로 구체화하는 과정
@@ -100,6 +116,10 @@
 growth-marketing-bootcamp
 │
 ├── README.md
+├── LEARNING_WORKFLOW.md
+├── scripts/
+│   ├── curriculum_to_notion_csv.mjs
+│   └── new_daily_notebook.mjs
 │
 ├── week01/
 │   ├── README.md

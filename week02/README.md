@@ -32,7 +32,13 @@
 | 02 | [Dashboard](./02_dashboard.ipynb) | 지표 구성과 데이터 스토리텔링 실습 |
 | 03 | [Career Portfolio](./03_resume_portfolio.ipynb) | 경험과 역량을 포트폴리오 관점으로 정리 |
 
+
 ---
+
+### ✍️ 기록 방식
+
+코드 실습이 있는 날은 같은 날짜·주제의 Notion 글과 코드를 하나의 날짜별 노트북에 보관합니다.
+[작성·저장 방법 보기](../LEARNING_WORKFLOW.md)
 
 ### 🔍 Recruiter Takeaway
 
